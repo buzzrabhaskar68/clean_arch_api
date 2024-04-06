@@ -26,6 +26,7 @@
     "@shelf/jest-mongodb": "^4.2.0",
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.3",
+    "@types/supertest": "^6.0.2",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "concurrently": "^8.2.2",
     "eslint": "8.57.0",
@@ -38,6 +39,7 @@
     "lint-staged": "^15.2.2",
     "nodemon": "^3.1.0",
     "rimraf": "^5.0.5",
+    "supertest": "^6.3.4",
     "ts-jest": "^29.1.2",
     "typescript": "^5.4.4",
     "typescript-eslint": "^7.5.0"
