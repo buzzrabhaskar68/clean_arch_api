@@ -5,6 +5,5 @@ export default (): Express => {
     const app = express()
     app.use(express.json())
     setupRoutes(app)
-    console.log('test')
     return app
 }
